@@ -4,3 +4,4 @@ def reverseName(s):
         ans = s[i] + ans
 
 reverse("naman kumar")
+print("lol")
